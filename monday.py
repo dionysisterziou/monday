@@ -1,0 +1,6 @@
+print('Maria: Welcome to our family! What is your name?')
+my_name = input()
+print(my_name + ': Hi, my name is ' + my_name + '! What about yours?')
+print('Maria: Nice to meet you ' + my_name + '. I am Maria! I will order coffee, what coffee would you like?')
+my_coffee = input()
+print(my_name + ': Sure! I want a ' + my_coffee + '!')
